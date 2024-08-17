@@ -21,4 +21,4 @@ def count(string,substring,isbool=False):
    
     
       
-print(count('sggs','s'))
+print(count('enieeee','eeee'))
